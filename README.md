@@ -10,6 +10,8 @@
 # Descrição
 
 Cria 25 arquivos vazios com o nome do usuário solicitado e cada vez que você executá-lo, ele cria o próximo lote de 25 arquivos com números crescentes, começando com o último número ou o número máximo que já existir.
+
+Feito durante a aula de Linux pela Escola da Nuvem.
  
 # Tecnologias Utilizadas
 * **Shell Bash**
